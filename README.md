@@ -11,10 +11,10 @@ Andrés Camilo Fuquen Gil
 Samir Andrés Velasco Niño
 
 
-                                             Escuela de IngenierÍas Eléctrica, Electrónica y de Telecomunicaciones
+                        Escuela de IngenierÍas Eléctrica, Electrónica y de Telecomunicaciones
 
 
-                                                                Universidad Industrial de Santander
+                                          Universidad Industrial de Santander
 
 
-                                                                         Bucaramanga 2024
+                                                    Bucaramanga 2024
