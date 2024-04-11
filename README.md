@@ -3,12 +3,18 @@ Diseño e implementación de un módulo de expansión de entradas digitales/anal
 
 
 Autores:
+
+
 Andrés Camilo Fuquen Gil
+
+
 Samir Andrés Velasco Niño
 
 
 Escuela de IngenierÍas Eléctrica, Electrónica y de Telecomunicaciones
 
+
 Universidad Industrial de Santander
+
 
 Bucaramanga 2024
