@@ -11,7 +11,7 @@ Andrés Camilo Fuquen Gil
 Samir Andrés Velasco Niño
 
 
-                        Escuela de IngenierÍas Eléctrica, Electrónica y de Telecomunicaciones
+                        Escuela de Ingenierías Eléctrica, Electrónica y de Telecomunicaciones
 
 
                                           Universidad Industrial de Santander
